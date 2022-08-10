@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BasicLayoutsCompose</string>
+    <string name="placeholder_search">Search</string>
+
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+
+    <string name="name_goku">Goku</string>
+    <string name="name_vegeta">Vegeta</string>
+    <string name="name_piccolo">Piccolo</string>
+    <string name="name_frieza">Frieza</string>
+    <string name="name_gohan">Gohan</string>
+    <string name="name_cell">Cell</string>
+
+</resources>
